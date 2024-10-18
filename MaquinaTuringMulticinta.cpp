@@ -1,3 +1,10 @@
+/*
+*Elaborado por Alejandra Jiménez Venegas 
+*Teoría de Autómatas
+*Este código es un ejemplo de cómo implementar una máquina de Turing multicinta en C para realizar 
+la suma de números binarios. La combinación de lógica de programación
+ y gráficos permite visualizar el proceso de la máquina de Turing de manera interactiva.*/ 
+
 #include<stdio.h>
 #include<conio.h>
 #include <graphics.h>
